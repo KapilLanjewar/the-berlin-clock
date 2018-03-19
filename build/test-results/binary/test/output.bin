@@ -1,5 +1,5 @@
-“2018-03-18T23:49:45.914 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\cooking\the-berlin-clock\build\classes\test, C:\cooking\the-berlin-clock\build\resources\test, C:\cooking\the-berlin-clock\build\classes\main]] 
-Õ2018-03-18T23:49:45.943 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story]] 
+“2018-03-19T13:13:04.222 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\cooking\the-berlin-clock\build\classes\test, C:\cooking\the-berlin-clock\build\resources\test, C:\cooking\the-berlin-clock\build\classes\main]] 
+Õ2018-03-19T13:13:04.246 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story]] 
 !Processing system properties {}
 ÜUsing controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=300,threads=1]
 aRunning story file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story

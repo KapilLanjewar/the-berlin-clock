@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ubs.opsit.interviews.BerlinClockFixture" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-18T18:19:45" hostname="Nick" time="1.199">
+<testsuite name="com.ubs.opsit.interviews.BerlinClockFixture" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-19T07:43:04" hostname="Nick" time="1.035">
   <properties/>
-  <testcase name="berlinClockAcceptanceTests" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="1.199"/>
-  <system-out><![CDATA[2018-03-18T23:49:45.914 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\cooking\the-berlin-clock\build\classes\test, C:\cooking\the-berlin-clock\build\resources\test, C:\cooking\the-berlin-clock\build\classes\main]] 
-2018-03-18T23:49:45.943 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story]] 
+  <testcase name="berlinClockAcceptanceTests" classname="com.ubs.opsit.interviews.BerlinClockFixture" time="1.035"/>
+  <system-out><![CDATA[2018-03-19T13:13:04.222 | est worker | ClasspathStoryFinder | INFO   - Searching for stories called [berlin-clock.story] in [[C:\cooking\the-berlin-clock\build\classes\test, C:\cooking\the-berlin-clock\build\resources\test, C:\cooking\the-berlin-clock\build\classes\main]] 
+2018-03-19T13:13:04.246 | est worker | aviouralTestEmbedder | INFO   - Running [BehaviouralTestEmbedder] with spring_stories [[file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story]] 
 Processing system properties {}
 Using controls EmbedderControls[batch=false,skip=false,generateViewAfterStories=true,ignoreFailureInStories=false,ignoreFailureInView=false,verboseFailures=false,verboseFiltering=false,storyTimeoutInSecs=300,threads=1]
 Running story file:/C:/cooking/the-berlin-clock/build/resources/test/stories/berlin-clock.story
