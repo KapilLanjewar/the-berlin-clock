@@ -5,6 +5,6 @@ import java.util.List;
 public interface Row<T> {
 
 	public String getRowDisplay();
-	List<T> getRowLamps();
+	public List<T> getRowLamps();
 	
 }
